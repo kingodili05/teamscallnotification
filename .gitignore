@@ -1,0 +1,12 @@
+# Secrets
+config.js
+
+# Dependencies
+node_modules/
+build/
+dist/
+
+# Misc
+.env
+*.log
+.DS_Store
